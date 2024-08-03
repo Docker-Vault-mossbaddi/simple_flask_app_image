@@ -1,0 +1,25 @@
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers de configuration et de déploiement
+__pycache__/
+*.pyc
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Docker
+docker-compose.yml
+.dockerignore
+
+# Fichiers spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
