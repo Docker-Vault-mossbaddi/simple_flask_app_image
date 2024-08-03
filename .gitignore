@@ -12,9 +12,6 @@ __pycache__/
 *.bak
 *.swp
 
-# Docker
-docker-compose.yml
-.dockerignore
 
 # Fichiers spécifiques à l'IDE
 .vscode/
